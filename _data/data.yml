@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Jens  Wiesehahn
     tagline: M.Sc. Forestry
-    avatar: portrait.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: portrait.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: wiesehahn.jens@gmail.com
