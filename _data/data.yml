@@ -56,31 +56,19 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master of Science in Forest Sciences and Forest Ecology
+      university: Georg-August-University of Göttingen
+      time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Master thesis: Grade: 1.0 (very good)
+        Mapping rubber (Hevea brasiliensis) in the Upper Mekong Region: An improved methodology to detect rubber plantations and to predict their stand age from Landsat-8 imagery
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Science in Forest Sciences and Forest Ecology
+      university: Georg-August-University of Göttingen
+      time: 2008 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Bachelor thesis: Grade: 1.0 (very good)
+        Effects of shade on sap flux and tree characteristics in an agroforestrysystem in Central-Sulawesi, Indonesia
 
 experiences:
     - role: Lead Developer
