@@ -60,7 +60,7 @@ education:
       university: Georg-August-University of Göttingen
       time: 2012 - 2015
       details: |
-        Master thesis: Grade: 1.0 (very good)
+        **Master thesis:** Grade: 1.0 (very good)
         
         Mapping rubber (Hevea brasiliensis) in the Upper Mekong Region: An improved methodology to detect rubber plantations and to predict their stand age from Landsat-8 imagery
 
@@ -68,54 +68,46 @@ education:
       university: Georg-August-University of Göttingen
       time: 2008 - 2012
       details: |
-        Bachelor thesis: Grade: 1.0 (very good)
+        **Bachelor thesis:** Grade: 1.0 (very good)
         
         Effects of shade on sap flux and tree characteristics in an agroforestrysystem in Central-Sulawesi, Indonesia
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Associate
+      time: 2019 - Present
+      company: Chair of Forest Inventory and Remote Sensing, University of Göttingen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Land-use and land-cover analysis of oil palm dominated landscapes,
+        Development of web-based applications for forest condition analysis
+        
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Associate
+      time: 2016 - 2019
+      company: Johann Heinrich von Thünen-Institut of Forest Ecosystems
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Organisation, implementation and analysis of the Carbon Inventory 2017,
+        Preparatory work for the German NFI (BWI4),
+        Modelling survival rates of forest stands within the project Survival-KW
 
-          - Bullet point
-          - Bullet point
+    - role: Research Assistant
+      time: 2015 - 2016
+      company: Chair of Forest Inventory and Remote Sensing, University of Göttingen
+      details: |
+        Supervised classification and spatial analyses of multi-temporal Landsat-8 imagery,
+        Supervision of students in forest inventory and remote sensing exercises
 
-    - role: UI Developer
+    - role: Teaching Assistant
+      time: 2013 - 2015
+      company: Department Ecoinformatics, Biometrics and Forest Growth, University of Göttingen
+      details: |
+        Teaching theory and practice of working with ESRI ArcGIS
+     
+    - role: Part-time Job
       time: 2012 - 2014
-      company: Amazon, London
+      company: Department Ecoinformatics, Biometrics and Forest Growth, University of Göttingen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        Tree planting, pre-commercial thinning, biotope maintenance
+        
 projects:
     title: Projects
     intro: >
@@ -152,39 +144,39 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Bundesweite Projektion der Überlebensraten wichtiger Baumarten
+        authors: Bender, Wiesehahn, Jánosi and Bolte
+        conference: AFZ-Der Wald 2/2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Interactive Web-Application to visualize forest condition and damaged areas in northern Germany
+        authors: Wiesehahn
+        conference: Preliminary version: https://wiesehahn.users.earthengine.app/
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: GIS (ArcGIS, QGIS)
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: R
         level: 95%
+        
+      - name: SQL
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Adobe Photoshop
+        level: 65%
+                
+      - name: JavaScript
+        level: 55%
+        
+      - name: HTML, CSS 
+        level: 50%
+        
+      - name: Python
+        level: 35%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/wiesehahn" target="_blank" rel="nofollow">Jens Wiesehahn</a>
