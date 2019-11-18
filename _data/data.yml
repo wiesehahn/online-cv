@@ -63,7 +63,7 @@ education:
       university: Georg-August-University of Göttingen
       time: 2012 - 2015
       details: |
-        *Master thesis: Grade:* 1.0 (very good)
+        *Master thesis* (grade:<abbr title="very good">1.0</abbr>):
         
         Mapping rubber (Hevea brasiliensis) in the Upper Mekong Region: An improved methodology to detect rubber plantations and to predict their stand age from Landsat-8 imagery
 
@@ -71,7 +71,7 @@ education:
       university: Georg-August-University of Göttingen
       time: 2008 - 2012
       details: |
-        *Bachelor thesis:* <abbr title="grade: 1.0 - very good">*Bachelor thesis:*</abbr>
+        *Bachelor thesis:* (grade:<abbr title="very good">1.0</abbr>):
         
         Effects of shade on sap flux and tree characteristics in an agroforestry system in Central-Sulawesi, Indonesia
 
@@ -150,7 +150,7 @@ publications:
         
       - title: Bundesweite Projektion der Überlebensraten wichtiger Baumarten
         authors: Bender, Wiesehahn, Jánosi and Bolte
-        conference: AFZ-Der Wald 2/2019
+        conference: <a href="https://www.researchgate.net/publication/330598955_Bundesweite_Projektion_der_Uberlebensraten_wichtiger_Baumarten">AFZ-Der Wald 2/2019</a>   
 
       - title: Interactive Web-Application to visualize forest condition and damaged areas in northern Germany
         authors: Wiesehahn
