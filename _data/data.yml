@@ -141,12 +141,13 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
 
-    papers:
+    papers:    
+      - title: Infografik - Die Bundeswaldinventur
+        authors: Wiesehahn, Riedel and Schnell
+        conference: <a href="https://wiesehahn.github.io/bwi_map/">online, 2/2019</a>
+        
       - title: Bundesweite Projektion der Überlebensraten wichtiger Baumarten
         authors: Bender, Wiesehahn, Jánosi and Bolte
         conference: AFZ-Der Wald 2/2019
