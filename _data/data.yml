@@ -73,7 +73,7 @@ education:
       details: |
         *Bachelor thesis:* <abbr title="grade: 1.0 - very good">*Bachelor thesis:*</abbr>
         
-        Effects of shade on sap flux and tree characteristics in an agroforestrysystem in Central-Sulawesi, Indonesia
+        Effects of shade on sap flux and tree characteristics in an agroforestry system in Central-Sulawesi, Indonesia
 
 experiences:
     - role: Research Associate
@@ -154,7 +154,7 @@ publications:
 
       - title: Interactive Web-Application to visualize forest condition and damaged areas in northern Germany
         authors: Wiesehahn
-        conference: "Earth Engine Apps, 2019 https://wiesehahn.users.earthengine.app/"
+        conference: <a href="https://wiesehahn.users.earthengine.app/">Earth Engine Apps, 2019</a>
 
 skills:
     title: Skills &amp; Proficiency
