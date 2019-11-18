@@ -71,7 +71,7 @@ education:
       university: Georg-August-University of Göttingen
       time: 2008 - 2012
       details: |
-        *Bachelor thesis:* Grade: 1.0 (very good)
+        *Bachelor thesis:* Grade: 1.0 (very good) <abbr title="Grade: 1.0 (very good)">test</abbr>
         
         Effects of shade on sap flux and tree characteristics in an agroforestrysystem in Central-Sulawesi, Indonesia
 
