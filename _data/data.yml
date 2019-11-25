@@ -117,17 +117,17 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Survival-Klimawandel
+        link: "chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.waldklimafonds.de/fileadmin/SITE_MASTER/content/Dokumente/Projektbeschreibung/088_SURVIVAL.pdf"
+        tagline: "Survival rates of European tree species in a changing climate"
 
-      - title: DevStudio
+      - title: Mapping forest health and disturbances
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Remote sensing data for forest disturbance detection as basis for an interactive web-map"
 
-      - title: Tempo
+      - title: Classifying land-use and land-cover in Jambi, Indonesia
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Using multitemporal satellite imagery for the classification of palm-oil dominated landscapes."
 
       - title: Atom
         link: "#"
