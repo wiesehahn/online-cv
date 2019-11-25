@@ -158,6 +158,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: MS Office
+        level: 99%
+
       - name: GIS (ArcGIS, QGIS)
         level: 98%
 
