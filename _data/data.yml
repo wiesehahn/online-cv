@@ -112,9 +112,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Selection of side projects
 
     assignments:
       - title: Survival-Klimawandel
@@ -129,13 +127,6 @@ projects:
         link: "#"
         tagline: "Using multitemporal satellite imagery for the classification of palm-oil dominated landscapes."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
